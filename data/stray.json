@@ -1,0 +1,47 @@
+{
+    "id": 107050801,
+    "name": "stray",
+    "author": "enternalrichie",
+    "creators": ["enternalrichie"],
+    "verifier": "enternalrichie",
+    "verification": "https://youtu.be/9-URC7LruWw?si=wq-_jkRJGcm0tHZ_",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "AhmedGMD7",
+            "link": "https://youtu.be/Eoju6KmRbSs?si=K5wkt0vrCq_AUKvc",
+            "percent": 100
+        },
+        {
+            "user": "sli",
+            "link": "https://youtu.be/gZRRX7Kn_ko?si=EXIpvOhKXLiPtMBx",
+            "percent": 100
+        },
+        {
+            "user": "Shotjunbruh",
+            "link": "https://youtu.be/635hUr8LDhs?feature=shared",
+            "percent": 100
+        },
+        {
+            "user": "Slumz",
+            "link": "https://www.tiktok.com/t/ZP8eXUTvo/",
+            "percent": 100
+        },
+        {
+            "user": "CollapserYT",
+            "link": "https://youtu.be/_HQ_1J4pK4k",
+            "percent": 100
+        },     
+        {
+            "user": "Kopre",
+            "link": "https://youtu.be/sJvWsF85GNY",
+            "percent": 100
+        },
+        {
+            "user": "jiri113",
+            "link": "https://youtu.be/TqhY0AsirQU?si=i4JhaMLsDXsFPnXu",
+            "percent": 100
+        }
+    ]
+}

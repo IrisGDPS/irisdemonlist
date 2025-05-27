@@ -1,0 +1,42 @@
+{
+    "id": 105692501,
+    "name": "Cliffside",
+    "author": "Blodge",
+    "creators": ["Blodge"],
+    "verifier": "Blodge",
+    "verification": "https://youtu.be/UUy26TWj1zk?si=FyEnVpDyhBeKPeCO",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "AhmedGMD7",
+            "link": "https://www.youtube.com/watch?v=lCWRrVAFXUg",
+            "percent": 100
+        },
+        {
+            "user": "sli",
+            "link": "https://youtu.be/QtmH4adlXys?si=7EQHsJPoNjKC731O",
+            "percent": 100
+        },
+        {
+            "user": "enternalrichie",
+            "link": "https://youtu.be/TbXHjFzAgDA?si=kDqwFfWfBTuWMfJz",
+            "percent": 100
+        },
+        {
+            "user": "Real Cornilius",
+            "link": "https://www.tiktok.com/t/ZTFN7AgyC/",
+            "percent": 100
+        },
+        {
+            "user": "Shotjunbruh",
+            "link": "https://youtu.be/iO1B8ANqiqs?feature=shared",
+            "percent": 100
+        },
+        {
+            "user": "Kopre",
+            "link": "https://youtu.be/BM49G6hNzVA",
+            "percent": 100
+        }
+    ]
+}
