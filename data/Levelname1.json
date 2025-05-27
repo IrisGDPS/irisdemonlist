@@ -12,16 +12,19 @@
             "user": "Kopre",
             "link": "https://youtu.be/746O_LgsL3o?si=mNlKayb3BSiwwccF",
             "percent": 100
+            "hz": 240
         },
         {
             "user": "JohnLikesDiamond",
             "link": "https://youtu.be/vtv0rg8Qajw?si=WLjndupjVuhdDIhe",
             "percent": 100
+            "hz": 60
         },
         {
             "user": "Nemzie",
             "link": "https://youtu.be/js2IO57b81w?si=onQ2UrP15fcPGXo4",
             "percent": 57
+            "hz": 75
         }
     ]
 }
