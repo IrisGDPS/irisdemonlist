@@ -11,7 +11,8 @@
         {
             "user": "1",
             "link": "#",
-            "percent": 81
+            "percent": 81,
+            "hz": 240
         }
     ]
 }
