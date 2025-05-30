@@ -5,14 +5,14 @@
     "creators": ["Alice, Violet"],
     "verifier": "Alice",
     "verification": "https://www.youtube.com/watch?v=JugfL2fmy2Y",
-    "percentToQualify": "73",
+    "percentToQualify": "71",
     "password": "Free To Copy",
     "records": [
         {
             "user": "Violet",
             "link": "#",
             "percent": 81,
-            "hz": 240
+            "hz": 144
         }
     ]
 }
