@@ -1,0 +1,18 @@
+{
+    "id": 107,
+    "name": "Cherry",
+    "author": "Alice",
+    "creators": ["Alice, Violet"],
+    "verifier": "Alice",
+    "verification": "https://www.youtube.com/watch?v=JugfL2fmy2Y",
+    "percentToQualify": "73",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "#",
+            "link": "#",
+            "percent": #,
+            "hz": #
+        }
+    ]
+}
