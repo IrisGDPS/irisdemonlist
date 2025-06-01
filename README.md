@@ -1,4 +1,4 @@
-# Welcome to the Geometry Dash Shitty List template!
+# Iris GDPS Official Demonlist
 
 # FAQ
 
@@ -6,7 +6,7 @@
 
 ### Website FAQ
 
-Can I use the Shitty List template?
+Can I use your list template?
 
 - Sure. Credits to the shitty list are embedded onto this template so keep that in.
 
