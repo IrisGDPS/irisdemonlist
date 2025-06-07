@@ -1,0 +1,18 @@
+{
+    "id": 140,
+    "name": "211",
+    "author": "turkybolgur",
+    "creators": ["turkybolgur"],
+    "verifier": "turkybolgur",
+    "verification": "https://youtu.be/7Jwd-SVfb58",
+    "percentToQualify": "81",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "#",
+            "link": "#",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
