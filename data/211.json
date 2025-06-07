@@ -8,5 +8,11 @@
     "percentToQualify": "81",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "devyat",
+            "link": "https://www.youtube.com/watch?v=mT9hf2F7FJE",
+            "percent": 100,
+            "hz": #
+        }
     ]
 }
